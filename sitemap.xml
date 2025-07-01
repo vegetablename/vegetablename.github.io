@@ -8,23 +8,18 @@
 
 
 <url>
-  <loc>https://vegetablename.github.io/</loc>
+  <loc><a href="https://vegetablename.github.io/">https://vegetablename.github.io/</a></loc>
   <lastmod>2025-06-10T06:37:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://vegetablename.github.io/disclaimer.html</loc>
+  <loc><a href="https://vegetablename.github.io/disclaimer.html">https://vegetablename.github.io/disclaimer.html</a></loc>
   <lastmod>2025-06-10T06:37:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vegetablename.github.io/privacypolicy.html</loc>
+ <loc><a href="https://vegetablename.github.io/privacypolicy.html">https://vegetablename.github.io/privacypolicy.html</a></loc>
   <lastmod>2025-06-10T06:37:52+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-<loc>https://vegetablename.github.io/week.html</loc>
-<lastmod>2025-06-11T04:00:07+00:00</lastmod>
-<priority>0.90</priority>
 </url>
 </urlset>
